@@ -10,15 +10,15 @@
   1. #### 연관단어 검색기
       + 개요
       + 사용한 프로그래밍 언어
-        +Python   
+        + Python   
       + 프로젝트 실적
   2. #### CNE-Join
       + 개요
       + 사용한 프로그래밍 언어
-        +Python   
+        + Python   
       + 프로젝트 실적
   3. #### N-Join-Pair
       + 개요
       + 사용한 프로그래밍 언어
-        +Python  
+        + Python  
       + 프로젝트 실적

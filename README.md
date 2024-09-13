@@ -6,6 +6,7 @@
 
 ---
 + ## **기술 스택**
+  + <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
 ---
 + ## **진행한 프로젝트**
   1. #### 연관단어 검색기

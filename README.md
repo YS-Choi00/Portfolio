@@ -42,7 +42,8 @@
         + 아래의 그림은 CNE-Join과 추후 설명할 N-Join-Pair가 합쳐진 아키텍처임     
           ![image](https://github.com/user-attachments/assets/a7a2ba75-de34-4c1d-870c-9286c5a42086)
       + 사용한 프로그래밍 언어
-        + Python   
+        + Python
+      + [CNE-Join 코드 및 실행 방법](https://github.com/uos-dmlab/Structured-Data-Embedding/tree/master)
       + 프로젝트 실적
         + 국내 학술대회 - 2023년 한국 인공지능 학술대회 발표
         + 서울시립대학교 석사 학위논문
@@ -57,7 +58,8 @@
         + CNE-Join 결과로 얻은 조인 융합 가능한 테이블쌍을 활용해 조인 융합 가능한 3개 이상의 테이블 데이터 조합들을 찾아내고, 이들을 조인 테이블과 조인에 사용된 소스 테이블간 코사인 유사도 값을 기준으로 랭킹하는 기법
         + CNE-Join의 출력으로 얻은 조인 융합 가능한 테이블쌍을 입력받으면, 그에 대한 출력으로 3개 이상의 조인 가능한 테이블 조합을 랭킹을 매겨 사용자에게 제공한다
       + 사용한 프로그래밍 언어
-        + Python  
+        + Python
+      + [N-Join-Pair 코드 및 실행 방법](https://github.com/uos-dmlab/Structured-Data-Embedding/tree/master)
       + 프로젝트 실적
         + 국제 학술대회 - 2024년 WITC 발표
         + 서울시립대학교 석사 학위논문

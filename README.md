@@ -27,7 +27,7 @@
           ![화면 캡처 2024-09-05 191044](https://github.com/user-attachments/assets/3b327f3c-fb93-49f8-aa04-f77da03e1164)
       + 사용한 프로그래밍 언어
         + Python
-      + [연관단어 검색기 코드] (https://github.com/uos-dmlab/Named-Entiry-Classification/tree/master/code)
+      + [연관단어 검색기 코드](https://github.com/uos-dmlab/Named-Entiry-Classification/tree/master/code)
       + 프로젝트 실적
         + 국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 발표
       </details>

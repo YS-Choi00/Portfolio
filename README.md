@@ -68,7 +68,7 @@
       </details>
 ---
 + ## **Publication**
-  + 국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 - 뉴럴 임베딩 기반 주제별 고유명사 연관어 탐색 시스템 개발
+  + [국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 - 뉴럴 임베딩 기반 주제별 고유명사 연관어 탐색 시스템 개발](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B4%80%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89%EA%B8%B0/2022_%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
   + 국내 학술대회 - 2023년 한국 인공지능 학술대회 - 컬럼 임베딩과 개체명 인식을 통합한 조인 가능한 데이터셋 검색
   + 국제 학술대회 - 2024년 WITC - Joinable Tabular Data Search with Table Embedding
   + 서울시립대학교 석사 학위논문

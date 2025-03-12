@@ -31,7 +31,7 @@
       + 프로젝트 실적
         + [국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 발표](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B4%80%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89%EA%B8%B0/2022_%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
       </details>
-  2. #### CNE-Join
+  2. #### 테이블 데이터 자동 조인 융합(CNE-Join기법)
       <details>
         <summary>자세히</summary>
         
@@ -51,7 +51,7 @@
         + 특허 제 10-2648215호 데이터셋 융합 가능 여부 판단 장치 및 방법 출원
         + 프로그램 등록번호 C-2023-045822 - 정형 데이터에 대한 자동 조인 융합 시스템 등록
       </details>
-  3. #### N-Join-Pair
+  3. #### 테이블 데이터 자동 조인 융합(N-Join-Pair기법)
       <details>
         <summary>자세히</summary>
         

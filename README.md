@@ -49,7 +49,7 @@
         + [서울시립대학교 석사 학위논문](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/CNE-Join%20%2B%20N-Join-Pair/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
         + [국내 저널(KCI 우수등재지) - 2024년 한국전자거래학회지 8월호 논문 게재](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/CNE-Join%20%2B%20N-Join-Pair/2024_%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C%EC%A7%80_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
         + [특허 제 10-2648215호 데이터셋 융합 가능 여부 판단 장치 및 방법 출원](https://github.com/YS-Choi00/Portfolio/blob/main/%ED%8A%B9%ED%97%88/CNE-Join%EA%B4%80%EB%A0%A8%20%ED%8A%B9%ED%97%88.pdf)
-        + 프로그램 등록번호 C-2023-045822 - 정형 데이터에 대한 자동 조인 융합 시스템 등록
+        + [프로그램 등록번호 C-2023-045822 - 정형 데이터에 대한 자동 조인 융합 시스템 등록](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml)
       </details>
   3. #### 테이블 데이터 자동 조인 융합(N-Join-Pair기법)
       <details>
@@ -74,4 +74,4 @@
   + [서울시립대학교 석사 학위논문](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/CNE-Join%20%2B%20N-Join-Pair/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
   + [국내 저널(KCI 우수등재지) - 2024년 한국전자거래학회지 8월호 - 뉴럴 임베딩 기술을 활용한 정형 데이터의 자동 조인 융합 기법](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/CNE-Join%20%2B%20N-Join-Pair/2024_%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C%EC%A7%80_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
   + [특허 제 10-2648215호 - 데이터셋 융합 가능 여부 판단 장치 및 방법](https://github.com/YS-Choi00/Portfolio/blob/main/%ED%8A%B9%ED%97%88/CNE-Join%EA%B4%80%EB%A0%A8%20%ED%8A%B9%ED%97%88.pdf)
-  + 프로그램 등록번호 C-2023-045822 - 정형 데이터에 대한 자동 조인 융합 시스템 
+  + [프로그램 등록번호 C-2023-045822 - 정형 데이터에 대한 자동 조인 융합 시스템](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml)

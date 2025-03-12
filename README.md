@@ -29,7 +29,7 @@
         + Python
       + [연관단어 검색기 코드](https://github.com/uos-dmlab/Named-Entiry-Classification/tree/master/code)
       + 프로젝트 실적
-        + 국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 발표
+        + [국내 학술대회 - 2022년 한국전자거래학회_춘계학술대회 발표](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/%EC%97%B0%EA%B4%80%EB%8B%A8%EC%96%B4%20%EA%B2%80%EC%83%89%EA%B8%B0/2022_%ED%95%9C%EA%B5%AD%EC%A0%84%EC%9E%90%EA%B1%B0%EB%9E%98%ED%95%99%ED%9A%8C_%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
       </details>
   2. #### CNE-Join
       <details>

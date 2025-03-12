@@ -63,7 +63,7 @@
       + [N-Join-Pair 코드 및 실행 방법](https://github.com/uos-dmlab/Structured-Data-Embedding/tree/master)
       + 프로젝트 실적
         + 국제 학술대회 - 2024년 WITC 발표
-        + 서울시립대학교 석사 학위논문
+        + [서울시립대학교 석사 학위논문](https://github.com/YS-Choi00/Portfolio/blob/main/%EB%85%BC%EB%AC%B8/CNE-Join%20%2B%20N-Join-Pair/%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%B5%9C%EC%9C%A4%EC%84%9D.pdf)
         + 국내 저널 - 2024년 한국전자거래학회지 8월호 논문 게재
       </details>
 ---

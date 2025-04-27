@@ -15,7 +15,7 @@
   + #### 2019년 03월 ~ 2023년 2월 : 공학사(서울시립대학교 전자전기컴퓨터공학부)
 
 ---
-+ ## **기술 스택**
+# 🛠️ 기술 스택
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
